@@ -18,6 +18,7 @@
 * [Blogs](#blogs)
 * [Control Panel & Billing](#control-panel-and-billing-platforms)
 * [YouTube Channels](#youtube-channels)
+* [Distributions](#distributions)
 
 ### Documentation
 
@@ -552,3 +553,12 @@ A list of YouTube channels that publish videos about OpenStack
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)- Learn Linux TV is a YouTube channel that publishes videos about Linux and OpenStack.
 * [The Cloudcast](https://www.youtube.com/@TheCloudcastNET) - The Cloudcast is a YouTube channel that publishes videos about cloud computing.
 * [Canonical Ubuntu](https://www.youtube.com/watch?v=SnsWf0hyDXc&list=PLwFSk464RMxnK9kpE8rDnDUaXSsUI-enB) - Canonical Ubuntu is a YouTube channel that publishes videos about Ubuntu and OpenStack.
+
+### Distributions
+A list of OpenStack distributions
+
+* [Vanilla OpenStack](https://docs.openstack.org/install-guide/) - Vanilla OpenStack is the official OpenStack distribution.
+* [Canonical OpenStack](https://ubuntu.com/openstack) - Canonical OpenStack is an enterprise cloud platform engineered for price-performance.
+* [Red Hat OpenStack Platform](https://www.redhat.com/en/technologies/linux-platforms/openstack-platform) - Red Hat OpenStack Platform is a cloud computing platform that virtualizes resources from industry-standard hardware, organizes those resources into clouds, and manages them so users can access what they need—when they need it.
+* [Mirantis Cloud Platform](https://www.mirantis.com/software/mirantis-openstack-for-kubernetes/) - Mirantis Cloud Platform (MCP) is a Kubernetes and OpenStack IaaS software for bare metal, VMs, and containers at scale.
+* [Virtuozzo Hybrid Infrastructure](https://www.virtuozzo.com/hybrid-infrastructure/) - Virtuozzos enhanced OpenStack-based cloud platform enables private cloud through hosted, on-premises and hybrid deployment models. 
