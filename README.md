@@ -561,4 +561,10 @@ A list of OpenStack distributions
 * [Canonical OpenStack](https://ubuntu.com/openstack) - Canonical OpenStack is an enterprise cloud platform engineered for price-performance.
 * [Red Hat OpenStack Platform](https://www.redhat.com/en/technologies/linux-platforms/openstack-platform) - Red Hat OpenStack Platform is a cloud computing platform that virtualizes resources from industry-standard hardware, organizes those resources into clouds, and manages them so users can access what they need—when they need it.
 * [Mirantis Cloud Platform](https://www.mirantis.com/software/mirantis-openstack-for-kubernetes/) - Mirantis Cloud Platform (MCP) is a Kubernetes and OpenStack IaaS software for bare metal, VMs, and containers at scale.
-* [Virtuozzo Hybrid Infrastructure](https://www.virtuozzo.com/hybrid-infrastructure/) - Virtuozzos enhanced OpenStack-based cloud platform enables private cloud through hosted, on-premises and hybrid deployment models. 
+* [Virtuozzo Hybrid Infrastructure](https://www.virtuozzo.com/hybrid-infrastructure/) - Virtuozzos enhanced OpenStack-based cloud platform enables private cloud through hosted, on-premises and hybrid deployment models.
+
+# License:
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-openstack-cloud</span> by <a xmlns:cc="http://creativecommons.org" href="https://github.com/dragomiralin" property="cc:attributionName" rel="cc:attributionURL">Dragomir Alin</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+See the `LICENSE` for more info.
