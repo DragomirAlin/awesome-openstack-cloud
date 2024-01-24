@@ -462,6 +462,7 @@ Tools to install, manage and operate OpenStack deployments
 * [Bifrost](https://docs.openstack.org/bifrost/latest/) - Bifrost is an official OpenStack project which aims to deploy production environments from source in a way that makes it scalable while also being simple to operate, upgrade, and grow.
 * [Openstack Chef](https://docs.openstack.org/openstack-chef/latest/) - OpenStack Chef is an official OpenStack project which aims to deploy production environments from source in a way that makes it scalable while also being simple to operate, upgrade, and grow.
 * [OpenStack Puppet](https://docs.openstack.org/puppet-openstack-guide/latest/) - Puppet OpenStack modules bring scalable and reliable IT automation to OpenStack cloud deployments.
+* [Vexxhost Atmosphere](https://github.com/vexxhost/atmosphere) -  Simple & easy private cloud platform featuring VMs, Kubernetes & bare-metal.
 
 
 ### Software Development Kits
