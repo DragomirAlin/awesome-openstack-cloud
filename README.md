@@ -427,6 +427,7 @@ A list of cloud providers that offer OpenStack-based public cloud services
 * [Virtuozzo](https://virtuozzo.com/) - Virtuozzo Cloud gives MSPs and CSPs a self-service OpenStack-based cloud platform they can use to sell cost-effective cloud services to end users.
 * [Fuga Cloud](https://fuga.cloud/) - Fuga Cloud is a Dutch cloud provider that offers OpenStack-based public cloud services.
 * [OpenMetal](https://openmetal.io/) - OpenMetal provides Cloud as a Service (CaaS) and Bare Metal as a Service (BMaaS) solutions.
+* [REGIO.cloud](https://regio.digital) - REGIO.cloud is a German cloud provider that offers OpenStack-based public cloud services and Managed Kubernetes as a Service
 
 If you want to add a cloud provider to this list, please open a pull request.
 
