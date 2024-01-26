@@ -499,7 +499,7 @@ Software Development Kits (SDKs) for OpenStack that allow you to interact with O
 * [php-opencloud](https://github.com/php-opencloud/openstack) - s an SDK which allows PHP developers to easily connect to OpenStack APIs in a simple and idiomatic way
 
 #### Python
-* [shade](https://docs.openstack.org/developer/shade/) - Shade is a simple client library for interacting with OpenStack clouds
+* [shade](https://docs.openstack.org/developer/shade/) - Shade was a simple client library for interacting with OpenStack clouds. Shade has been superceded by openstacksdk and should not be used today.
 * [openstacksdk](https://docs.openstack.org/openstacksdk/latest/) - OpenStack SDK for Python
 * [OpenStackClients](https://wiki.openstack.org/wiki/OpenStackClients) - OpenStackClients is a set of command line clients for OpenStack services.
 * [libcloud](https://libcloud.apache.org/) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.
