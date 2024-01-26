@@ -544,6 +544,7 @@ Platforms that allow you to bill your customers for OpenStack-based cloud servic
 - [cloud7](https://cloud7.io/openstack-billing/) - cloud7 is a billing platform for OpenStack-based cloud services.
 - [HostBill](https://hostbillapp.com/products-services/openstack/) - HostBill is a billing platform for OpenStack-based cloud services.
 - [OpenStack VPS & Cloud For WHMCS](https://marketplace.whmcs.com/product/2390-openstack-vps-cloud-for-whmcs) - OpenStack VPS & Cloud For WHMCS is a billing platform for OpenStack-based cloud services.
+- [Fleio](https://fleio.com) - Fleio OpenStack Edition provides full billing and control panel functionality that enables service providers to offer public cloud services
 
 ### YouTube Channels
 A list of YouTube channels that publish videos about OpenStack
