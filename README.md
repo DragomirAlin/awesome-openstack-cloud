@@ -447,6 +447,7 @@ A list of companies that offer OpenStack-related consulting services
 * [C-DAC](https://www.cdac.in/) - C-DAC is an Indian company that offers OpenStack-related consulting services.
 * [StackHPC](https://stackhpc.com/) - StackHPC is a UK company that offers OpenStack-related consulting services.
 * [Storware](https://storware.eu/) - Storware is a Polish company that offers OpenStack-related consulting services.
+* [OSISM](https://osism.tech/) - OSISM is a German company that offers OpenStack-related consulting services.
 
 If you want to add a company to this list, please open a pull request.
 
@@ -463,6 +464,7 @@ Tools to install, manage and operate OpenStack deployments
 * [Openstack Chef](https://docs.openstack.org/openstack-chef/latest/) - OpenStack Chef is an official OpenStack project which aims to deploy production environments from source in a way that makes it scalable while also being simple to operate, upgrade, and grow.
 * [OpenStack Puppet](https://docs.openstack.org/puppet-openstack-guide/latest/) - Puppet OpenStack modules bring scalable and reliable IT automation to OpenStack cloud deployments.
 * [Vexxhost Atmosphere](https://github.com/vexxhost/atmosphere) -  Simple & easy private cloud platform featuring VMs, Kubernetes & bare-metal.
+* [OSISM](https://osism.github.io) - OSISM provides production-grade cloud infrastructure based on OpenStack for enterprises, service providers & ISVs
 
 
 ### Software Development Kits
