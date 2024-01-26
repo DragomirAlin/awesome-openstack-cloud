@@ -406,7 +406,7 @@ A list of books about OpenStack
 * [Identity, Authentication, and Access Management in OpenStack](https://www.amazon.com/Identity-Authentication-Access-Management-OpenStack-ebook/dp/B0195P0XFW/ref=sr_1_28?keywords=openstack&qid=1706024824&s=books&sr=1-28) - Implement and manage OpenStack Identity, Keystone, and users across key components of the OpenStack framework
 * [Extending OpenStack](https://www.amazon.com/Extending-OpenStack-containerization-deployment-architecting-ebook/dp/B079Q5SZ4N/ref=sr_1_25?keywords=openstack&qid=1706025145&s=books&sr=1-25) - Leverage functionalities of OpenStack to implement various cloud capabilities
 * [OpenStack Orchestration](https://www.amazon.com/OpenStack-Orchestration-Adnan-Ahmed-Siddiqui-ebook/dp/B015P663GI/ref=sr_1_38?keywords=openstack&qid=1706025145&s=books&sr=1-38) - Learn how to automate and orchestrate your OpenStack cloud with OpenStack Heat and other supporting technologies
-* [OpenStack Trove Essentials](https://www.amazon.com/OpenStack-Trove-Essentials-Alok-Shrivastwa-ebook/dp/B01956B5Q2/ref=sr_1_43?keywords=openstack&qid=1706025145&s=books&sr=1-43) - Build your own cloud based Database as a Service using OpenStack Trove
+* [OpenStack Trove Essentials](https://www.amazon.com/OpenStack-Trove-Essentials-Alok-Shrivastwa-ebook/dp/B01956B5Q2/ref=sr_1_43?keywords=openstack&qid=1706025145&s=books&sr=1-43) - Build your own cloud-based Database as a Service using OpenStack Trove
 * [OpenStack Sahara Essentials](https://www.amazon.com/OpenStack-Sahara-Essentials-Omar-Khedher-ebook/dp/B01CGKAJES/ref=sr_1_45?keywords=openstack&qid=1706025145&s=books&sr=1-45) - Leverage OpenStack Sahara to simplify the provisioning and deployment of Hadoop clusters
 * [OpenStack Bootcamp](https://www.amazon.com/OpenStack-Bootcamp-operate-environment-effectively/dp/1788293304/ref=sr_1_51?keywords=openstack&qid=1706025297&s=books&sr=1-51) - Build and operate a private cloud environment effectively
 * [OpenStack Cloud Security](https://www.amazon.com/OpenStack-Cloud-Security-Alessandro-Locati-ebook/dp/B00YSILXLK/ref=sr_1_53?keywords=openstack&qid=1706025297&s=books&sr=1-53) - Leverage OpenStack services to build secure clouds for real-life deployment
@@ -428,6 +428,7 @@ A list of cloud providers that offer OpenStack-based public cloud services
 * [Fuga Cloud](https://fuga.cloud/) - Fuga Cloud is a Dutch cloud provider that offers OpenStack-based public cloud services.
 * [OpenMetal](https://openmetal.io/) - OpenMetal provides Cloud as a Service (CaaS) and Bare Metal as a Service (BMaaS) solutions.
 * [REGIO.cloud](https://regio.digital) - REGIO.cloud is a German cloud provider that offers OpenStack-based public cloud services and Managed Kubernetes as a Service
+* [Kepler Cloud](https://keplercloud.se/) - We at Kepler Cloud believe in providing a wide range of hosting solutions that are reliable, scalable, and cost-effective OpenStack-based public cloud for our customers. 
 
 If you want to add a cloud provider to this list, please open a pull request.
 
