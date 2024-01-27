@@ -617,7 +617,7 @@ A list of blogs that write about OpenStack
 * [Julios Blog](https://www.juliosblog.com/) - A blog about open-source, cloud computing, digital transformation, and other emerging technologies
 * [Doug Hellmann](https://doughellmann.com/blog/?s=openstack) - Doug Hellmann is a software developer with a wide range of experience in application areas and types. He is currently employed by Red Hat to work on OpenStack full time
 * [thePub - OpenStack](https://netapp.io/category/openstack/?utm_source=feedspot) - NetApp is the leader in data insight, access and control for hybrid cloud environments.
-* [Rob Hirschfeld](https://developer.feedspot.com/openstack_blogs/) - Rob Hirschfeld is CEO and co-founder of RackN, leaders in physical and hybrid DevOps software.
+* [Rob Hirschfeld](https://robhirschfeld.com/) - Rob Hirschfeld is CEO and co-founder of RackN, leaders in physical and hybrid DevOps software.
 * [jpichon.net](https://www.jpichon.net/?utm_source=feedspot) - A blog about open-source, technology and OpenStack
 * [OpenStack in production](https://openstack-in-production.blogspot.com/) - Follow this blog for hints, tips and tricks from the CERN OpenStack cloud team.
 * [Assaf Muller](https://assafmuller.com/) - Assaf Muller is associate manager of the Red Hat OpenStack Networking engineering team. He was formerly a neutron core reviewer, member of the drivers team and responsible for the project's testing
