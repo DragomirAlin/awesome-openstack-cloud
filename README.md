@@ -33,7 +33,7 @@ service. The documentation is written by the OpenStack community.
 OpenStack is a bunch of services that work together depending on your cloud needs. OpenStack is broken up into services
 to allow you to plug and play components depending on your needs. OpenStack services each have their own APIs.
 
-##### Compute
+#### Compute
 
 * [Nova](#nova---compute-service) - Compute Service
 * [Zun](#zun---container-service) - Container Service
@@ -616,7 +616,7 @@ A list of blogs that write about OpenStack
 * [The OpenStack Blog](https://www.mirantis.com/blog/tag/openstack/) - The OpenStack Blog is a community blog about OpenStack.
 * [Julios Blog](https://www.juliosblog.com/) - A blog about open-source, cloud computing, digital transformation, and other emerging technologies
 * [Doug Hellmann](https://doughellmann.com/blog/?s=openstack) - Doug Hellmann is a software developer with a wide range of experience in application areas and types. He is currently employed by Red Hat to work on OpenStack full time
-* [thePub | OpenStack](https://netapp.io/category/openstack/?utm_source=feedspot) - NetApp is the leader in data insight, access and control for hybrid cloud environments.
+* [thePub - OpenStack](https://netapp.io/category/openstack/?utm_source=feedspot) - NetApp is the leader in data insight, access and control for hybrid cloud environments.
 * [Rob Hirschfeld](https://developer.feedspot.com/openstack_blogs/) - Rob Hirschfeld is CEO and co-founder of RackN, leaders in physical and hybrid DevOps software.
 * [jpichon.net](https://www.jpichon.net/?utm_source=feedspot) - A blog about open-source, technology and OpenStack
 * [OpenStack in production](https://openstack-in-production.blogspot.com/) - Follow this blog for hints, tips and tricks from the CERN OpenStack cloud team.
